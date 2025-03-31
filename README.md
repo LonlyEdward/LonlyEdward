@@ -10,7 +10,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">~ Currently working as a freelance web developer<br> ~ Studying Computer Science at the University of Dodoma<br> ~ Enjoys playing Ctfs and learning about Security</p>
+<p align="left">~ Working as a freelance web developer since 2022<br> ~ Studying Computer Science at the University of Dodoma<br> ~ Enjoys playing Ctfs and learning about Security</p>
 
 
 ###
