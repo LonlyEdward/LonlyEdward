@@ -23,6 +23,6 @@
 
 <h2>Where to find me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//lonly-edward) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lonlyedward@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lonly-edward) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lonlyedward@gmail.com) 
 
 ###
